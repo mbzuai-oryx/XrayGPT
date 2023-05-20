@@ -1,0 +1,15 @@
+<Img><ImageHere></Img> Describe the given chest x-ray image in detail.
+<Img><ImageHere></Img> Take a look at this chest x-ray and describe the findings and impression.
+<Img><ImageHere></Img> Could you provide a detailed description of the given x-ray image?
+<Img><ImageHere></Img> Describe the given chest x-ray image as detailed as possible.
+<Img><ImageHere></Img> What are the key findings in this chest x-ray image?
+<Img><ImageHere></Img> Could you highlight any abnormalities or concerns in this chest x-ray image?
+<Img><ImageHere></Img> What specific features of the lungs and heart are visible in this chest x-ray image?
+<Img><ImageHere></Img> What is the most prominent feature visible in this chest x-ray image, and how is it indicative of the patient's health?
+<Img><ImageHere></Img> What are the finding and overall impression provided by this chest x-ray image?
+<Img><ImageHere></Img> How does the size and shape of the heart in this chest x-ray image?
+<Img><ImageHere></Img> Is the overall impression provided by this chest x-ray image normal or abnormal? Answer based on the observed findings.
+<Img><ImageHere></Img> Are there any indications of infection or inflammation in this chest x-ray image, and if so, what is the likely cause?
+<Img><ImageHere></Img> Based on the findings in this chest x-ray image, what is the overall impression?
+<Img><ImageHere></Img> Are there any visible indications of enlargement or abnormalities in the patient's lymph nodes in this chest x-ray image?
+<Img><ImageHere></Img> Is there any potential complications or risks are associated with the observed abnormalities in this chest x-ray image? or the x-ray is normal?
