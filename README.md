@@ -13,6 +13,7 @@
 ## :rocket: News
 <hr>
 
++ May-25 : Our technical report will be released very soon. stay tuned!.
 + May-19 : Our code, models, and pre-processed report summaries are released.
 
 
