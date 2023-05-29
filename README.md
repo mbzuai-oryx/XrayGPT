@@ -18,7 +18,7 @@
 
 
 ## Online Demo
-You can try our demo using the provided examples or by uploading your own X-ray here : [Link-1](https://8d0c8b3e78acff7448.gradio.live) | [Link-2](https://4bec00debbe17ae4c5.gradio.live) | [Link-3](https://f5ad86f8fbeee5508b.gradio.live) .
+You can try our demo using the provided examples or by uploading your own X-ray here : [Link-1](https://dd17b3353b5658a528.gradio.live) | [Link-2](https://ace5cc01bdd7d2613b.gradio.live) | [Link-3](https://1d1d564b4fb12b874a.gradio.live) .
 
 
 ## About XrayGPT
