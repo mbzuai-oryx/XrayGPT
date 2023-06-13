@@ -13,7 +13,7 @@ model:
   num_query_token: 32
 
   # Vicuna
-  llama_model: "/home/omkarthawakar/fahad/MiniGPT-4/Vicuna_Radiology_fp16/"
+  llama_model: "./Vicuna_Radiology_fp16/"
 
   # generation configs
   prompt: ""
