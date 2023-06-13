@@ -8,7 +8,7 @@ model:
   low_resource: True
   prompt_path: "prompts/alignment.txt"
   prompt_template: '###Patient: {} ###Doctor: '
-  ckpt: '/home/omkarthawakar/fahad/MiniGPT-4/minigpt4/output/minigpt4_stage3_openi_6450_finetune/20230424182/checkpoint_4.pth'
+  ckpt: './xraygpt/output/path_to_ckpt'
 
 
 datasets:
