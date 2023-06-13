@@ -7,7 +7,7 @@ model:
   end_sym: "###"
   prompt_path: "prompts/alignment.txt"
   prompt_template: '###Patient: {} ###Doctor: '
-  ckpt: '/home/omkarthawakar/fahad/XrayGPT/xraygpt/pretrained_ckpt/pretrained_minigpt4_7b.pth'
+  ckpt: './xraygpt/pretrained_ckpt/pretrained_minigpt4_7b.pth'
 
 
 datasets:
