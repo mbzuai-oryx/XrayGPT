@@ -13,6 +13,7 @@
 ## :rocket: News
 <hr>
 
++ Jun-14 : Our technical report is released [here](https://arxiv.org/abs/2306.07971). :fire::fire:
 + May-25 : Our technical report will be released very soon. stay tuned!.
 + May-19 : Our code, models, and pre-processed report summaries are released.
 
@@ -159,6 +160,16 @@ python demo.py --cfg-path eval_configs/xraygpt_eval.yaml  --gpu-id 0
 + [Lavis](https://github.com/salesforce/LAVIS) This repository is built upon Lavis!
 + [Vicuna](https://github.com/lm-sys/FastChat) The fantastic language ability of Vicuna is just amazing. And it is open-source!
 
+## Citation
+If you're using XrayGPT in your research or applications, please cite using this BibTeX:
+```bibtex
+    @article{Omkar2023XrayGPT,
+        title={XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models},
+        author={Omkar Thawkar, Abdelrahman Shaker, Sahal Shaji Mullappilly, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Jorma Laaksonen and Fahad Shahbaz Khan},
+        journal={arXiv: 2306.07971},
+        year={2023}
+    }
+```
 
 ## License
 This repository is licensed under CC BY-NC-SA. Please refer to the license terms [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
