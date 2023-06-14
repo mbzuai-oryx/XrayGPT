@@ -30,7 +30,7 @@ You can try our demo using the provided examples or by uploading your own X-ray 
 + We generate interactive and clean summaries (~217k) from free-text radiology reports of two datasets ([MIMIC-CXR](https://physionet.org/content/mimic-cxr-jpg/2.0.0/) and [OpenI](https://openi.nlm.nih.gov/faq#collection)). These summaries serve to enhance the performance of LLMs through fine-tuning the linear transformation layer on high-quality data. For more details regarding our high-quality summaries, please check [Dataset Creation](README-DATASET.md).
 + We align frozen medical visual encoder (MedClip) with a fune-tuned LLM (Vicuna), using simple linear transformation.
 
-![overview](images/Overall_Architecture_V2.gif)
+![overview](images/Overall_architecture_V3.gif)
 
 
 ## Getting Started
