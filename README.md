@@ -86,7 +86,7 @@ dataset
 
 **3. Prepare the pretrained Vicuna weights**
 
-We built XrayGPT on the v1 versoin of Vicuna-7B.
+We built XrayGPT on the v1 version of Vicuna-7B.
 We finetuned Vicuna using curated radiology report samples. 
 Download the Vicuna weights from [vicuna_weights](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/omkar_thawakar_mbzuai_ac_ae/EWoMYn3x7sdEnM2CdJRwWZgBCkMpLM03bk4GR5W0b3KIQQ?e=q6hEBz)
 The final weights would be in a single folder in a structure similar to the following:
