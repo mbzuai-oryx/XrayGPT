@@ -52,7 +52,7 @@ git clone https://github.com/mbzuai-oryx/XrayGPT.git
 cd XrayGPT
 conda create -n xraygpt python=3.9
 conda activate xraygpt
-pip install -r xgpt_requirements.txt
+pip install -r xraygpt_requirements.txt
 ```
 
 ### Setup
