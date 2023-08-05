@@ -155,7 +155,10 @@ UserWarnings `libcuda.so` related:
 - While the conda env is active substituite `torchvision` and `torchaudio` with the matching versions related to `PyTorch 2.0.0`
 
 `device_map` errors:
-- Take a look at [this article](https://huggingface.co/blog/accelerate-large-models#sharding-state-dicts), where `offload_folder` is mentioned 
+- Take a look at [this article](https://huggingface.co/blog/accelerate-large-models#sharding-state-dicts), where `offload_folder` is mentioned
+
+HFValidationError: Repo id must be in the form 'repo_name' or 'namespace/repo_name':
+- On `llama_model:` in `xraygpt.yaml` use the absolute path of the download `Vicuna_Radiology_fp16` weights
 
 ## Examples
   |   |   |
