@@ -23,16 +23,16 @@ brotlipy==0.7.0
 cachetools==5.3.0
 catalogue==2.0.8
 cchardet==2.1.7
-certifi @ file:///croot/certifi_1671487769961/work/certifi
-cffi @ file:///croot/cffi_1670423208954/work
+certifi==2022.12.7
+cffi==1.15.1
 chardet==3.0.4
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+charset-normalizer==2.0.4
 click==8.1.3
 cmake==3.26.3
 comm==0.1.3
 confection==0.0.4
 contourpy==1.0.7
-cryptography @ file:///croot/cryptography_1677533068310/work
+cryptography==39.0.1
 cycler==0.11.0
 cymem==2.0.7
 dataclasses==0.6
@@ -50,16 +50,16 @@ executing==1.2.0
 ExifRead-nocycle==3.0.1
 fairscale==0.4.13
 fastapi==0.95.1
-fastChat==0.1
+fastChat==0.1.1
 fastjsonschema==2.16.3
 ffmpy==0.3.0
 filelock==3.9.0
 fire==0.5.0
-flit_core @ file:///croot/flit-core_1679397103445/work/source/flit_core
+flit_core==3.8.0
 fonttools==4.38.0
 fqdn==1.5.1
 frozenlist==1.3.3
-fschat @ git+https://github.com/lm-sys/FastChat.git@f34f28cedcb8906fd026f22ec3ef41435a8e24ac
+fschat==0.1.10
 fsspec==2022.11.0
 gensim==4.3.1
 gitdb==4.0.10
@@ -91,9 +91,9 @@ Jinja2==3.1.2
 joblib==1.2.0
 jsonpointer==2.3
 jsonschema==4.17.3
-jupyter-events==0.6.3
 jupyter_client==8.2.0
 jupyter_core==5.3.0
+jupyter-events==0.6.3
 jupyter_server==2.5.0
 jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
@@ -113,7 +113,7 @@ mdurl==0.1.2
 MedCLIP==0.0.3
 mistune==2.0.5
 mkl-fft==1.3.1
-mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186066731/work
+mkl-random==1.2.2
 mkl-service==2.4.0
 mpmath==1.3.0
 multidict==6.0.4
@@ -129,7 +129,7 @@ nltk==3.8.1
 notebook==6.5.4
 notebook_shim==0.2.2
 numba==0.56.4
-numpy @ file:///croot/numpy_and_numpy_base_1672336185480/work
+numpy==1.23.5
 nvidia-cublas-cu11==11.10.3.66
 nvidia-cuda-cupti-cu11==11.7.101
 nvidia-cuda-nvrtc-cu11==11.7.99
@@ -157,6 +157,7 @@ peft==0.2.0
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.4.0
+pip==23.0.1
 platformdirs==3.2.0
 portalocker==2.7.0
 preshed==3.0.8
@@ -168,19 +169,19 @@ psutil==5.9.4
 ptyprocess==0.7.0
 pure-eval==0.2.2
 py-itree==0.0.19
-pyarrow==12.0.0
+pyarrow==10.0.1
 pycocoevalcap==1.2
 pycocotools==2.0.6
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycparser==2.21
 pydantic==1.10.7
 pydub==0.25.1
 Pygments==2.15.1
 pyllama==0.0.9
 pynndescent==0.5.9
-pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+pyOpenSSL==23.0.0
 pyparsing==3.0.9
 pyrsistent==0.19.3
-PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+PySocks==1.7.1
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 python-multipart==0.0.6
@@ -190,7 +191,7 @@ PyYAML==6.0
 pyzmq==25.0.2
 qudida==0.0.4
 regex==2022.10.31
-requests @ file:///croot/requests_1678709721434/work
+requests==2.28.1
 responses==0.18.0
 rfc3339-validator==0.1.4
 rfc3986==1.5.0
@@ -205,8 +206,9 @@ sentence-transformers==2.2.2
 sentencepiece==0.1.97
 sentry-sdk==1.19.1
 setproctitle==1.3.2
+setuptools==66.0.0
 shortuuid==1.0.11
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six==1.16.0
 smart-open==6.3.0
 smmap==5.0.0
 sniffio==1.3.0
@@ -232,20 +234,20 @@ tinycss2==1.2.1
 tokenizers==0.13.2
 toolz==0.12.0
 torch==2.0.0
-torchaudio==0.12.1
-torchvision==0.13.1
+torchaudio==2.0.1
+torchvision==0.15.1
 tornado==6.3
 tqdm==4.64.1
 traitlets==5.9.0
-transformers @ git+https://github.com/huggingface/transformers.git@3d3204c025b6b5de013e07dd364208e28b4d9589
+transformers==4.29.0
 triton==2.0.0
 typer==0.7.0
-typing_extensions @ file:///croot/typing_extensions_1669924550328/work
+typing_extensions==4.4.0
 tzdata==2023.3
 uc-micro-py==1.0.1
 umap-learn==0.5.3
 uri-template==1.2.0
-urllib3 @ file:///croot/urllib3_1680254681959/work
+urllib3==1.26.15
 uvicorn==0.21.1
 wandb==0.12.21
 wasabi==1.1.1
@@ -257,6 +259,7 @@ webencodings==0.5.1
 websocket-client==1.5.1
 websockets==11.0.2
 wget==3.2
+wheel==0.38.4
 xxhash==3.2.0
 yarl==1.8.2
 zipp==3.14.0
