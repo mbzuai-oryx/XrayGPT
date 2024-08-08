@@ -13,6 +13,7 @@
 ## :rocket: News
 <hr>
 
++ Aug-04 : Our paper has been accepted at BIONLP-ACL 2024 :fire:
 + Jun-14 : Our technical report is released [here](https://arxiv.org/abs/2306.07971). :fire::fire:
 + May-25 : Our technical report will be released very soon. stay tuned!.
 + May-19 : Our code, models, and pre-processed report summaries are released.
