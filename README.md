@@ -145,6 +145,22 @@ Try gradio [demo.py](demo.py) on your local machine with following
 python demo.py --cfg-path eval_configs/xraygpt_eval.yaml  --gpu-id 0
 ```
 
+#### Demo build errors
+Problems related to img2dataset package:
+- Clone the img2dataset repo [link](https://github.com/rom1504/img2dataset)
+- Ensure that requirements.txt has `pyarrow>=6.0.1,<10.1.0` and `fire>=0.4.0,<=0.5.0`
+- On env.yml substitute `img2dataset==1.41.0` with `-e <local img2dataset absolute path>`
+
+UserWarnings `libcuda.so` related:
+- Follow the PyTorch version compatibility table [link](https://github.com/pytorch/pytorch/wiki/PyTorch-Versions)
+- While the conda env is active substituite `torchvision` and `torchaudio` with the matching versions related to `PyTorch 2.0.0`
+
+`device_map` errors:
+- Take a look at [this article](https://huggingface.co/blog/accelerate-large-models#sharding-state-dicts), where `offload_folder` is mentioned
+
+HFValidationError: Repo id must be in the form 'repo_name' or 'namespace/repo_name':
+- On `llama_model:` in `xraygpt.yaml` use the absolute path of the download `Vicuna_Radiology_fp16` weights
+
 ## Examples
   |   |   |
 :-------------------------:|:-------------------------:
